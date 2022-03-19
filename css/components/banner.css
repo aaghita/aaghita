@@ -1,0 +1,9 @@
+.banner{
+  background-image: url(/landing/images/background.png);
+  background-size: cover;
+  height: 70vw;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+}
