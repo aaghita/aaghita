@@ -8,4 +8,4 @@
 - 📫 How to reach me: here
 - 😄 Pronouns: her
 
-![Aaghita GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=aaghita&gitlabUsername=aaghita)
+![Aaghita GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=aaghita&gitlabUsername=Aaghita)
